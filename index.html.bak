@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang=pt-br>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+    concert=width=devace-width initial-scale=1.0>
+    <link rel="stylesheet" type="image/x-icon" href="./assets/img/ico.png">
+	<link rel="shortcut icon" href="./assets/img/ico.png" type="image/x-icon" />
+    <title>Portfólio - Imersão Alura</title> <!--titulo da pagina -->
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+</head>
+<body>
+
+   <div class="container">
+        <div class="box">
+            <header>
+                <figure>
+                    <img class="foto-perfil" src="https://github.com/talilotarlison.png" alt="Foto de Talilo"width="70px">
+                </figure>
+                 <div class="perfil">
+
+                    <h2><strong>Talilo Tarlison (@talilotarlison)</Strong></h2>
+
+                    <p><i>Aluno na Alura. Estudante de Front-End. #ImersãoDev #Alura</i></p>
+                    
+                    <a href="#"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111341.png"alt="codepen"></a>
+                    
+                    <a href="#"><img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github"></a>
+                     
+                     <a href="#"><img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733614.png" alt="intagram"></a>
+                    
+                    <a href="#"><img height="30"
+                    src="https://cdn-icons-png.flaticon.com/512/733/733617.png" alt="linkedin"></a>
+                </div>
+            </header>
+
+          <main>
+            <ul>
+                <h2>Projetos De Estudo</h2>
+                    <li><a href="#">🔢Calculadora</a>
+                    <li><a href="#">🎯Mentalista</a> 
+                    <li><a href="#">🎬AluraFlix
+                    <li><a href="#">📅Tabela de Classificação</a>
+                    <li><a href="#">🎲 Super Trufo</a>
+                    <li><a href="#">🏆Certifi-Card</a>
+            </ul>
+          </main>
+      </div>
+    </div>
+
+    
+</body>
+</html>
+   

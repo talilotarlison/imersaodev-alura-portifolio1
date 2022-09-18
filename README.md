@@ -1,7 +1,7 @@
 
 #  imersaodev-alura-portifolio1
 ### Imersão Dev Alura Realizada em 03-2022. Aula 9
-![preview](./assets/view.png)
+![preview](./assets/view.jpg)
 
 >Meu Portfólio
 
